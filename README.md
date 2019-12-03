@@ -1,6 +1,4 @@
-# sqlZoo-3
+# 3 Select from NOBEL
 SqlZoo Part 3 Answers
-
-3 Select from NOBEL
 
 Link: https://sqlzoo.net/wiki/SELECT_from_Nobel_Tutorial
